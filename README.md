@@ -1,3 +1,8 @@
+The YouTube video I followed to create this
+
+https://www.youtube.com/watch?v=cpzowDDJj24&t=2s
+
+
 # todo
 
 To install dependencies:
